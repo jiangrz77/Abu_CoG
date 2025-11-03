@@ -1,9 +1,9 @@
-Basic abundance derivation from Curve of Growth (CoG). 
-Possible systematics exist between the derived abundances in this code and the original paper due to the differences in the employed ineterpolating methods.
+Basic abundance derivation from Curve of Growth (CoG), which is used in Jiang et al. 2025 (arXiv:2510.05712). 
+Possible systematics exist between the derived abundances in this code and the original paper of Lind et al. 2022 due to the differences in the employed ineterpolating methods.
 Contact: jiangrz@bao.ac.cn if any questions.
 Please find a brief example in notebook/example.ipynb.
 
-If you use this code, please cite: arXiv:2510.05712
+If you use this code, please cite: arXiv:2510.05712.
 
 The CoG calculated by Lind et al. 2022 is used in the initial version, where only sodium, magnesium and aluminum are considered. If you use the default CoG grids, please cite:
 Non-LTE abundance corrections for late-type stars from 2000 Å to 3 µm - I. Na, Mg, and Al
