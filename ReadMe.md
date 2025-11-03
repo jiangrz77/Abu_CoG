@@ -1,4 +1,4 @@
-Basic abundance derivation from Curve of Growth (CoG), which is used in Jiang et al. 2025 (arXiv:2510.05712). 
+Basic abundance derivation from Curve of Growth (CoG), which is used in Jiang et al. 2025. 
 Possible systematics exist between the derived abundances in this code and the original paper of Lind et al. 2022 due to the differences in the employed ineterpolating methods.
 Contact: jiangrz@bao.ac.cn if any questions.
 Please find a brief example in notebook/example.ipynb.
