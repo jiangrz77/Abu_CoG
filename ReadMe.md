@@ -5,7 +5,7 @@ Please find a brief example in notebook/example.ipynb.
 
 If you use this code, please cite: arXiv:2510.05712
 
-The CoG calculated by Lind et al. 2022 is used in the initial version, where only sodium, magnesium and aluminum are considers. If you use the default CoG grids, please cite:
+The CoG calculated by Lind et al. 2022 is used in the initial version, where only sodium, magnesium and aluminum are considered. If you use the default CoG grids, please cite:
 Non-LTE abundance corrections for late-type stars from 2000 Å to 3 µm - I. Na, Mg, and Al
 K. Lind, T. Nordlander, A. Wehrhahn, M. Montelius, Y. Osorio, P. S. Barklem, M. Afşar, C. Sneden and C. Kobayashi
 A&A, 665 (2022) A33
